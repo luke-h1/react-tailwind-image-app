@@ -25,8 +25,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 
-## local setup ⛅️
-  * create a .env file in the root of the project 
-  * add the field REACT_APP_PIXABAY_API_KEY=YOUR_API_KEY
-  * npm start 
-  
